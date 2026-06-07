@@ -1,4 +1,0 @@
-flask==3.0.3
-werkzeug==3.0.3
-psutil==5.9.8
-gunicorn==22.0.0
